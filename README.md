@@ -1,2 +1,5 @@
 # -Hello-World-
-"My first Reostiry on GitHub
+
+My first repository on GitHub.
+
+I love :traveling :chicken, and :racing:.
