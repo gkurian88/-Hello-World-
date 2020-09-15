@@ -2,4 +2,4 @@
 
 My first repository on GitHub.
 
-I love :traveling :chicken, and :racing:.
+I love :traveling
